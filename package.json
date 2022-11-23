@@ -1,0 +1,17 @@
+{
+  "name": "bob-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritik Raj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs-extra": "^10.1.0",
+    "gtts": "^0.2.1"
+  }
+}
